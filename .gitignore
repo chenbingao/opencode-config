@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+package.json
+package-lock.json
+bun.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# AI instruction files
+AGENTS.md
+.opencode/
+.claude/
+.agents/
+.rules/
+*.rules.md
+CLAUDE.md
+CURSOR.md
+WINDSURF.md
+COPILOT.md
+CONTINUE.md
+AIDER.md
+GEMINI.md
+CODECOMPANION.md
+AUGMENT.md
+CLINE.md
+ROO.md
+.cursorrules
+.windsurfrules
+.copilotrules
+.github/copilot-instructions.md
